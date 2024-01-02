@@ -1,6 +1,6 @@
 # Unit Converter
 
-- <a href="https://comforting-gingersnap-9d07b0.netlify.app/">Live Preview</a>
+- <a href="https://asarahmed.github.io/Unit-Converter/">Live Preview</a>
 
 - <a href="https://scrimba.com/scrim/c2bw8QsN">View Scrim</a>
 
